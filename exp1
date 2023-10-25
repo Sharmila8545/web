@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>flowershop</title>
+</head>
+<body style="background-color: lightgreen;">
+<h1>Blossom</h1>
+<p>At our flower shop, we are passionate about bringing the beauty of nature into your life.</p>
+<img src="E:\html\web.html\flowershop.jpeg" alt="Flower Shop" width="150" height="150">
+<h2>About Us</h2>
+<p>We have been serving the local community for over 20 years, providing the freshest and most vibrant flowers for all occasions.</p>
+<h2>Our Services</h2>
+<ul>
+  <li>Custom floral arrangements for weddings, birthdays, and other special events</li>
+  <li>Same-day flower delivery service within the city</li>
+  <li>Expert floral design consultations</li>
+</ul>
+<h2>Contact Us</h2>
+<p>Visit us at:</p>
+<p>123 Flower Street, Cityville</p>
+<p>Contact us at: 012-345-6789</p>
+</body>
+</html>
+
+
